@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Zdravo svete, master!
+Zdravo svete, bre!
+>>>>>>> dev
